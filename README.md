@@ -6,5 +6,5 @@
 
 </p>
 <div align="center">
-<a href="https://discord.com/users/937316083533230110"><img src="https://lanyard-profile-readme.vercel.app/api/937316083533230110?borderRadius=25px&bg=#282a36"></a>
+<a href="https://discord.com/users/660531455704694824"><img src="https://lanyard-profile-readme.vercel.app/api/937316083533230110?borderRadius=25px&bg=#282a36"></a>
  </p>
